@@ -1,0 +1,3 @@
+[submodule "car-healthieness"]
+    path = car-healthieness
+    url = <URL_репозиторію>

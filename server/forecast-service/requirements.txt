@@ -1,0 +1,5 @@
+# requirements.txt
+flask==3.0.3
+lifelines==0.29.0
+numpy==1.26.4  # остання версія нижче 2.0, сумісна
+pandas==2.2.3

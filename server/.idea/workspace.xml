@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3735a91-03fd-4050-97d0-15f654f207b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/crud-service/src/auto_catalog/dto/add-or-link-car.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service/src/auto_catalog/schemas/auto_catalog.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service/src/car/schemas/car.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service/src/part/schemas/part.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service/src/part_catalog/schemas/part_catalog.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service/src/users/schemas/user.schema.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/crud-service" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xlfAV61hi0w0vpe4WY1Yd4kOmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.19.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.19.105&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/olha-kyryliuk/WebstormProjects/diploma/car-healthieness&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/olha-kyryliuk/WebstormProjects/diploma/server/crud-service/node_modules/prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/olha-kyryliuk/WebstormProjects/diploma/server/crud-service/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth-service/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3735a91-03fd-4050-97d0-15f654f207b9" name="Changes" comment="" />
+      <created>1748517437646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748517437646</updated>
+      <workItem from="1748517438714" duration="33936000" />
+      <workItem from="1748608583688" duration="276000" />
+      <workItem from="1748609202023" duration="930000" />
+      <workItem from="1748608694291" duration="2346000" />
+      <workItem from="1748683538832" duration="13913000" />
+      <workItem from="1748715387337" duration="9671000" />
+      <workItem from="1748728204547" duration="13573000" />
+      <workItem from="1748842944821" duration="12095000" />
+      <workItem from="1748866730033" duration="7448000" />
+      <workItem from="1748977921860" duration="4177000" />
+      <workItem from="1749021357430" duration="7014000" />
+      <workItem from="1749031247482" duration="3539000" />
+      <workItem from="1749041641100" duration="10655000" />
+      <workItem from="1749200886217" duration="3458000" />
+      <workItem from="1749236541308" duration="224000" />
+      <workItem from="1749365166606" duration="41000" />
+      <workItem from="1749397693939" duration="646000" />
+      <workItem from="1749456582670" duration="16383000" />
+      <workItem from="1749623901716" duration="811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

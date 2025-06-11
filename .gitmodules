@@ -1,3 +1,3 @@
-[submodule "car-healthieness"]
-    path = car-healthieness
-    url = <URL_репозиторію>
+[submodule "Client"]
+    path = Client
+    url = <https://github.com/Olhaaaa/Client.git>
